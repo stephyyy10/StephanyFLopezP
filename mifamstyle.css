@@ -1,0 +1,29 @@
+.heading1 {color: white;
+font-size: 60px;
+text-align: center;
+font-family: 'Great Vibes',cursive;
+text-shadow: 2px 2px 4px #000000;}
+
+body{background-image: url(https://ae01.alicdn.com/kf/HTB1hJ8ySXXXXXcTXXXXq6xXFXXXx/HUAYI-Background-Green-Brick-Wall-Backdrop-Art-Fabric-Newborn-Drop-Children-Photography-Prop-Photo-Background-XT.jpg_640x640.jpg); }
+
+.ThePhoto{color: #ffc8e8;
+font-size: 35px;
+text-align: right;
+}
+
+
+.info {color: #ffc8e8;
+font-size: 35px;
+text-align: left;}
+
+.TheBody{font-family:'Pathway Gothic One', sans-serif;
+font-size: 25px;}
+
+
+p {width: 520px;
+border:1px solid #000000}
+
+
+.Ohana {width: 120px;
+height:129px;
+text-align: right;}

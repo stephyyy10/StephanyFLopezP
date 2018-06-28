@@ -1,0 +1,28 @@
+
+  h1{color: #ff7d80; font-size:27px;
+  text-align: center;
+font-style: italic;}
+
+h5{color: lightgreen; font-size: 16px;}
+
+.subheading{color: #ff7d80;
+font-size: 19px;}
+
+body {font-family: 'Comfortaa', cursive;
+color: black;
+background-size: cover;
+background-image: url(http://arafen.com/a/f/h/home-design-pastel-colors-background-building-designers-black-and-white-brick-wall-breakfast-nook-gym_lamp-designers_restaurant-exterior-design-small-bathroom-shower-sofa-moder.jpg);}
+
+.next
+{color: lightblue;
+font-family:  'IM Fell Great Primer SC', serif;
+font-size: 32px;}
+
+.next1
+{color: pink;
+font-family:  'IM Fell Great Primer SC', serif;
+font-size: 32px;}
+
+
+.text {color: white;
+text-shadow:2px 2px 4px #000000;}
